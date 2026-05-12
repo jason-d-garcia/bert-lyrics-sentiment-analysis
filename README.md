@@ -1,5 +1,7 @@
 # 🎵 Mood Classification of Song Lyrics with BERT
 
+Project found at https://github.com/jason-d-garcia/bert-lyrics-sentiment-analysis
+
 This repository contains a PyTorch implementation of a **BERT-based classifier** for predicting the **emotional mood of song lyrics**.
 
 The model fine-tunes a pre-trained BERT encoder to classify song lyrics into one of four mood categories derived from **Valence–Arousal theory**.
